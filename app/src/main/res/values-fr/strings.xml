@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MundiaRun</string>
+    <string name="btn_leaderboard">CLASSEMENT</string>
+    <string name="btn_start">Jouer</string>
+    <string name="btn_start2">Jouer Encore</string>
+    <string name="btn_exit">Quitter</string>
+    <string name="btn_home">Menu Principal</string>
+    <string name="btn_sound">Son</string>
+    <string name="btn_mute">Muet</string>
+    <string name="game_over">Jeu Terminé</string>
+    <string name="high_score">Your High Score:</string>
+    <string name="score">Score:</string>
+</resources>
